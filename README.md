@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My name is Ymar and I am a consultant specialized in Customer Experience, Technology, and Leadership. Currently, I work as a Team Lead and Salesforce CRM Consultant at DEPT®.
+I'm a Managing Consultant at BRITE, specializing in Customer Experience, Technology, and Leadership. My expertise lies in Salesforce and CRM solutions.
 
-- I have a  understanding of Salesforce, with expertise in Apex, Salesforce Lightning, Visualforce, and other Salesforce technologies.
-- In addition to my Salesforce experience, I also have hands-on experience in PHP, JavaScript, HTML/CSS, and other web technologies, which I use to build innovative web applications.
+I blend technical knowledge with business strategy to develop impactful solutions for organizations. My focus is on aligning technology with business objectives to create meaningful results.
 
-
-Visit my [blog](https://ymar.nl) or connect with me on Twitter [@ymarfrenken](https://twitter.com) to stay updated with my latest projects and insights.
+Outside of work, I'm passionate about melodic house music. Check out my favorite tracks on my Trance and Deep playlists, or explore some of my favorite live sets.
